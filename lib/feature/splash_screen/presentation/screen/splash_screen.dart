@@ -6,7 +6,7 @@ class SplashScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  Scaffold(
-      backgroundColor: Colors.red[900],
+      backgroundColor: Colors.blue[900],
       body: Center(
         child: Image.asset('assets/icon/f1-logo.png'), ),
     );
